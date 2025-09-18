@@ -1,0 +1,17 @@
+[
+  {
+    "cuisine": "Southern Recipes",
+    "title": "Sweet Potato Pie",
+    "rating": 4.8,
+    "prep_time": 15,
+    "cook_time": 100,
+    "total_time": 115,
+    "description": "Shared from a Southern recipe...",
+    "nutrients": {
+      "calories": "389 kcal",
+      "carbohydrateContent": "48 g",
+      "cholesterolContent": "78 mg"
+    },
+    "serves": "8 servings"
+  }
+]
